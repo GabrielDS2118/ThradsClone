@@ -1,0 +1,11 @@
+1.SETUP PROYECT
+    Iniciar proyecto next.js -> 
+        npx create-next-app@latest ./
+    
+    Dependencias
+        npm install
+            @clerk/nextjs -> autenticacion
+            @uploadthing/react -> Subir imagen de perfil
+            mogose -> db
+            svix
+            uploadthing
