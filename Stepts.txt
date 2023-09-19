@@ -16,3 +16,31 @@
 
 3.ROUTE GROUPS
     Organizacion
+
+4.AUTH
+    - Ingresar a clerk   
+        https://clerk.com/?utm_source=js_mastery&utm_medium=youtube&utm_campaign=sponsorship&utm_content=8_4_23
+    
+    - Crear una cuenta con GitHub
+
+    - Crear Aplicacion
+        + Add application
+
+        Application name: ThreadsClone
+        How will your users sign in?
+            Email,UserName,Google,GitHub
+    
+    -API Keys
+        Copiarlas y pegarlas en .env
+    
+    -Habilitar Organizations para las comunidades
+    
+    https://clerk.com/docs/quickstarts/nextjs
+        -Crear middleware.ts para decidir cuales páginas son publicas y
+        cuales se van a esconder
+
+        -Hacer page.tsx de Sign-In y Sign-Up
+
+        -Url's en .env -> Por ejm donde ir despues de iniciar session
+
+        -     
