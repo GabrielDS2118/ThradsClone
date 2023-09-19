@@ -9,3 +9,7 @@
             mogose -> db
             svix
             uploadthing
+
+2.CONFIGURACION DE ESTILOS
+    Modificar tailwind.config.ts y globals.css
+    npm install tailwindcss-animate
