@@ -45,4 +45,16 @@
 
         -
 
-5.HOME PAGE     
+5.LAYOUT APP 
+    Cuando en los archivos layout.tsx aparece children
+    Se mostrará lo que hay en los archivos page.tsx
+
+6.AJUSTAR PESTAÑA
+    Ir a 
+        https://favicon.io/favicon-converter/
+        Convertir el logo y descargarlo
+        Poner el icono (favicon.ico) en app/
+    
+    Cambiar el object MetaData en app/root/layout
+
+
