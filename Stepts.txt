@@ -71,3 +71,4 @@
         Modificar el array en tailwind.config.ts para agregar los archivos
         terminados en .jsx
 
+9.RIGTH SIDEBAR
