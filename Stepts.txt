@@ -82,3 +82,8 @@
         npx shadcn-ui@latest add input
         npx shadcn-ui@latest add label
         npx shadcn-ui@latest add textarea
+
+11.ONBOARDING - Estructura inicial function onSubmit
+    Esta función se encargará de actualizar la infromacion del usuario
+    Lo primero que mira es si se ha cambiado la imagen (hasImageChanged)
+        Si ese es el caso cargarará la nueva imagen (useUploadThing)
