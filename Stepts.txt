@@ -87,3 +87,12 @@
     Esta función se encargará de actualizar la infromacion del usuario
     Lo primero que mira es si se ha cambiado la imagen (hasImageChanged)
         Si ese es el caso cargarará la nueva imagen (useUploadThing)
+
+
+12.BACKEND - Conectarse a la db
+    Crear db en atlas
+    Acceso dede cualquier ip
+    Copiar url y pegarla a .env
+
+    Conectarse a la base de datos -> lib > mongoose.ts
+
